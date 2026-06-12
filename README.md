@@ -1,5 +1,6 @@
-# TP2-IMLE
 # Retail Vision Intelligence System
+
+> **Nota:** O projeto completo (incluindo dataset de imagens, cache e vectorstore) foi entregue via FileSender por exceder os limites do GitHub. O link foi enviado por email juntamente com este repositório.
 **LIACD — Trabalho #2**  
 António Gomes
 
